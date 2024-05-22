@@ -1,0 +1,6 @@
+@Magic8Ball.Api_HostAddress = http://localhost:5258
+
+GET {{Magic8Ball.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
