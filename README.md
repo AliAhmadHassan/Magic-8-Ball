@@ -54,7 +54,7 @@ This project serves as a prototype to demonstrate the implementation of these pr
 ### Prerequisites
 
 - .NET Core SDK
-- SQL Server or any other database of your choice
+- SQLLite or any other database of your choice
 
 ### Installation
 
@@ -220,5 +220,7 @@ dotnet test
 For any questions or feedback, feel free to contact the project maintainer:
 
 Ali Ahmad Hassan
+
 [Perfil no GitHub](https://github.com/AliAhmadHassan)
+
 [Perfil no LinkedIn](https://www.linkedin.com/in/ali-ahmad-hassan/)
